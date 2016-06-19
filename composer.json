@@ -1,0 +1,10 @@
+{
+	"description": "NuclearCMS - Full Stack Energy Resources ",
+	"name": "nuclearcms/nuclear.core",
+	"type": "project",
+	"homepage": "https://nuclearcms.com",
+	"license": "MIT",
+	"require": {
+		"php": ">=5.2.4"
+	}
+}
